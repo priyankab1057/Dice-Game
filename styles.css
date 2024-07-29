@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+}
